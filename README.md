@@ -1,2 +1,2 @@
-# python-exercise
+# Python Exercise
 Python Exercise - Long Questions
